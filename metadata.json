@@ -1,0 +1,7 @@
+{
+  "name": "GeoChildMap Maputo - Plataforma SIG",
+  "description": "Plataforma funcional para cadastro geoespacial de crianças com necessidades especiais em Maputo, focada em planeamento e evidência.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
